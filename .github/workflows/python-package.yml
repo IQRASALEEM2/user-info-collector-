@@ -1,0 +1,7 @@
+# user_info_collector_app ( AS a beginerr )
+
+user_Name= input("Dear Enter your Name")
+Father_Name= input("Enter your Fater Namr")
+Age= input("what is your Age")
+
+print(user_Name)
